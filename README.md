@@ -2,6 +2,7 @@
 Source Code PHP MySQL SPK Fuzzy Tahani
 
 Pada postingan kali ini saya akan coba share program SPK Fuzzy Tahani berbasis PHP dengan database MySQL. Fuzzy ini menggunakan 2 variabel yaitu Nilai dan Minat Belajar.
+
 Screenshot :
 ![image](https://user-images.githubusercontent.com/40184971/190859593-3fdd5dec-2d90-4985-8aad-2af4247dbab1.png)
 ![image](https://user-images.githubusercontent.com/40184971/190859608-b387300f-a74f-4a94-af19-0d1e2d7c15a9.png)
